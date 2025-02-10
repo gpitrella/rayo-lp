@@ -55,7 +55,7 @@ export function Footer() {
             </Typography>
             <div className="flex mb-3 flex-col lg:flex-row items-start gap-4">
               <div className="w-full">
-                {/* @ts-ignore */}
+                
                 <Input label="Email" color="gray" />
                 <Typography className="font-medium mt-3 !text-sm !text-gray-500 text-left">
                   I agree the{" "}
