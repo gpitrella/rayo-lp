@@ -1,4 +1,4 @@
-"use client";
+'use client'
 
 import { Typography } from "@material-tailwind/react";
 import CourseCard from "@/components/course-card";
