@@ -29,6 +29,6 @@
     "typescript": "^5"
   },
   "resolutions": {
-    "@types/react": "18.2.39"
+    "@types/react": "18.2.19"
   }
 }
